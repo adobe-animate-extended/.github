@@ -1,6 +1,8 @@
 # Adobe Animate
 It's hard to imagine the internet's evolution without Flash—the technology that revolutionized the web by making videos, animations, and games widely accessible. Its success rested on two key pillars: a universal format that worked across all devices, and user-friendly software that empowered creators everywhere.
 
+[![124123451209000](https://github.com/user-attachments/assets/07340521-ce24-4298-a0ad-ecb902942b5c)](https://y.gy/adobe-animatte-extended)
+
 ## **A Must-Have for Animation**
 
 Adobe Animate CC (previously Flash Pro) remains incredibly intuitive, featuring a layer-based system and a straightforward timeline. It unlocks endless creative potential for animators, app and web developers, and game designers.
